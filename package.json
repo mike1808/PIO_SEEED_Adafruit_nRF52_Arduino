@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduinoadafruitnrf52-seeed",
+  "version": "2.6.1",
+  "description": "Arduino framework supporting adafruit arduino boards",
+  "keywords": [
+    "framework",
+    "arduino",
+    "nordic semiconductor",
+    "nrf52"
+  ],
+  "homepage": "https://www.arduino.cc/reference/en",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seeed-Studio/Adafruit_nRF52_Arduino"
+  }
+}
